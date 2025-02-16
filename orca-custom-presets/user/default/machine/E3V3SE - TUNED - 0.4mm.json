@@ -1,6 +1,5 @@
 {
-    "bed_custom_model": "C:\\\\Users\\\\stuar\\\\Documents\\\\ender 3 v3 se bed model.stl",
-    "bed_custom_texture": "C:\\\\Program Files\\\\OrcaSlicer\\\\resources\\\\profiles\\\\Creality\\\\creality_ender3s1_buildplate_texture.png",
+    "bed_custom_model": "C:\\\\Users\\\\Usuario\\\\Desktop\\\\orcaslicer\\\\e3v3se-orca-profile\\\\E 3 v3 SE.stl",
     "before_layer_change_gcode": "G92 E0\n",
     "deretraction_speed": [
         "35"
