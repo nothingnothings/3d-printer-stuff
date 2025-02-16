@@ -1,4 +1,7 @@
 {
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
     "filament_settings_id": [
         "3DLAB - LOW COST"
     ],
