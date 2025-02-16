@@ -44,6 +44,7 @@
     "overhang_1_4_speed": "100%",
     "overhang_2_4_speed": "25",
     "precise_outer_wall": "1",
+    "print_sequence": "by object",
     "print_settings_id": "PLA - STANDARD VASE - NO SPIRAL VASE",
     "raft_first_layer_density": "100%",
     "raft_layers": "3",
