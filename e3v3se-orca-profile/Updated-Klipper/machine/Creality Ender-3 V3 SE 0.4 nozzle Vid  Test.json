@@ -1,0 +1,22 @@
+{
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 V3 SE 0.4 nozzle",
+    "is_custom_defined": "0",
+    "name": "Creality Ender-3 V3 SE 0.4 nozzle Vid  Test",
+    "printer_settings_id": "Creality Ender-3 V3 SE 0.4 nozzle Vid  Test",
+    "retract_when_changing_layer": [
+        "0"
+    ],
+    "retraction_length": [
+        "0.8"
+    ],
+    "retraction_speed": [
+        "50"
+    ],
+    "support_multi_bed_types": "1",
+    "version": "2.2.0.4",
+    "wipe": [
+        "0"
+    ]
+}

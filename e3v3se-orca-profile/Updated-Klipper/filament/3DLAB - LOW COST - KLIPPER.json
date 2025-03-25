@@ -1,0 +1,16 @@
+{
+    "filament_settings_id": [
+        "3DLAB - LOW COST - KLIPPER"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA @Ender-3V3-all",
+    "is_custom_defined": "0",
+    "name": "3DLAB - LOW COST - KLIPPER",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.3.0.1"
+}

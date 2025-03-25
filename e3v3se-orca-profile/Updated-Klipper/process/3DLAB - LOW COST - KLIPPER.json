@@ -1,0 +1,11 @@
+{
+    "from": "User",
+    "inherits": "0.20mm Standard @Creality Ender3V3SE 0.4",
+    "is_custom_defined": "0",
+    "name": "3DLAB - LOW COST - KLIPPER",
+    "print_settings_id": "3DLAB - LOW COST - KLIPPER",
+    "sparse_infill_pattern": "zig-zag",
+    "support_type": "normal(manual)",
+    "version": "2.3.0.1",
+    "wall_loops": "3"
+}

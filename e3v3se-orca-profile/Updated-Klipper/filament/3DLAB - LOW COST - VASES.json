@@ -1,0 +1,22 @@
+{
+    "dont_slow_down_outer_wall": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "3DLAB - LOW COST - VASES"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Creality Generic PLA",
+    "is_custom_defined": "0",
+    "name": "3DLAB - LOW COST - VASES",
+    "slow_down_for_layer_cooling": [
+        "0"
+    ],
+    "version": "2.2.0.4"
+}
